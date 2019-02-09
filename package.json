@@ -1,0 +1,30 @@
+{
+  "name": "sapp",
+  "version": "0.0.1",
+  "description": "SOHO Appointment",
+  "main": "main.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chunkiat82/sapp.git"
+  },
+  "keywords": [
+    "appointment",
+    "soho",
+    "insights",
+    "analytics"
+  ],
+  "author": "Raymond Ho",
+  "license": "SEE LICENSE IN LICENSE.TXT",
+  "bugs": {
+    "url": "https://github.com/chunkiat82/sapp/issues"
+  },
+  "homepage": "https://github.com/chunkiat82/sapp#readme"
+}
